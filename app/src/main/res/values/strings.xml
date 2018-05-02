@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Single Choice Item</string>
+    <string-array name="options">
+        <item>Bike</item>
+        <item>Car</item>
+        <item>Train</item>
+    </string-array>
+</resources>
